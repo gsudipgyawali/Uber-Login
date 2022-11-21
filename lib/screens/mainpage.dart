@@ -19,7 +19,7 @@ class mainpage extends StatelessWidget {
       decoration: BoxDecoration(
           gradient: LinearGradient(colors: [
         Colors.orange[100],
-        Colors.red[100],
+        Colors.blue[100],
       ])),
       child: Container(
         child: Container(
